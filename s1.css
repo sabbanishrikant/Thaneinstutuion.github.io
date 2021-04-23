@@ -1,0 +1,50 @@
+
+#logo img{
+	height :150px;
+	width :150px;
+	float: left;
+ }
+
+.clear{
+	clear: both;}
+
+.head h1{
+	color:#36587E;
+	text-align: center;
+	font-size: 40px;
+padding-top: 50px;}
+
+.head h3{
+	color:#36587E;
+	text-align: center;
+}	 
+	
+body {background-color:#F8BF86;}
+
+.first h2 {
+	color: red;
+}
+.paragraph p{
+	color:red;
+	padding-top:10px;
+	padding-left: 50px;
+}
+
+#form{
+	padding-left: 100px;
+}
+
+#form h3{
+	font-family: source sans pro;
+}
+.offical page a{
+	text-align: center;
+}
+.head img{
+	height:200px;
+	width: 200px;
+	float: left;
+}
+.formii{
+	padding-left: 100px;
+}
